@@ -69,3 +69,6 @@ let hourInterval = 3
 for tickMark in stride(from: 3, to: hours, by: hourInterval){
     print(tickMark)
 }
+
+
+//TestCommit
