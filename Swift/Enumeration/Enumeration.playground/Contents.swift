@@ -147,7 +147,7 @@ if let somePlanet = _Planet(rawValue: positionToFind){
     print("There isn't a planet at position \(positionToFind)")
 }
 
-
+//Recursive Enumertaions
 enum ArithmeticExpression{
     case number(Int)
     indirect case addition(ArithmeticExpression,ArithmeticExpression)
@@ -158,6 +158,7 @@ enum ArithmeticExpression{
 //    case addition(ArithmeticExpression, ArithmeticExpression)
 //    case multiplication(ArithmeticExpression, ArithmeticExpression)
 //}
+
 
 let five = ArithmeticExpression.number(5)
 let four = ArithmeticExpression.number(4)
