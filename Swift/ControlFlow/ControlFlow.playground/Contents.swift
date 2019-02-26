@@ -77,12 +77,3 @@ for tickMark in stride(from: 3, to: hours, by: hourInterval){
 //TestCommit4
 //TestCommit5
 //Tascknaslcnalskc
-CFStringCreateWithPascalStringNoCopy(asc
-    , sa
-    , cs
-    , ac
-sac
-as
-c
-asc
-)
