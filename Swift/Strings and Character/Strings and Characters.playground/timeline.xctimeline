@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=2773&amp;EndingColumnNumber=12&amp;EndingLineNumber=108&amp;StartingColumnNumber=5&amp;StartingLineNumber=108&amp;Timestamp=573190137.57177"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=29&amp;CharacterRangeLoc=3031&amp;EndingColumnNumber=0&amp;EndingLineNumber=117&amp;StartingColumnNumber=1&amp;StartingLineNumber=116&amp;Timestamp=573190137.571923"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=50&amp;CharacterRangeLoc=3061&amp;EndingColumnNumber=0&amp;EndingLineNumber=118&amp;StartingColumnNumber=1&amp;StartingLineNumber=117&amp;Timestamp=573190137.572021"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=52&amp;CharacterRangeLoc=3112&amp;EndingColumnNumber=0&amp;EndingLineNumber=119&amp;StartingColumnNumber=1&amp;StartingLineNumber=118&amp;Timestamp=573190137.572113"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=3225&amp;EndingColumnNumber=0&amp;EndingLineNumber=121&amp;StartingColumnNumber=1&amp;StartingLineNumber=120&amp;Timestamp=573190137.572203"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.572307"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.572399"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.572487"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.572575"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=3364&amp;EndingColumnNumber=12&amp;EndingLineNumber=126&amp;StartingColumnNumber=5&amp;StartingLineNumber=126&amp;Timestamp=573190137.572661"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.5727479"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=501&amp;CharacterRangeLoc=3381&amp;EndingColumnNumber=33&amp;EndingLineNumber=140&amp;StartingColumnNumber=0&amp;StartingLineNumber=127&amp;Timestamp=573190137.572836"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=414&amp;CharacterRangeLoc=3505&amp;EndingColumnNumber=0&amp;EndingLineNumber=146&amp;StartingColumnNumber=0&amp;StartingLineNumber=129&amp;Timestamp=573190137.572924"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=3424&amp;EndingColumnNumber=8&amp;EndingLineNumber=128&amp;StartingColumnNumber=1&amp;StartingLineNumber=128&amp;Timestamp=573190137.57301"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=3382&amp;EndingColumnNumber=8&amp;EndingLineNumber=127&amp;StartingColumnNumber=1&amp;StartingLineNumber=127&amp;Timestamp=573190137.573095"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3720&amp;EndingColumnNumber=14&amp;EndingLineNumber=137&amp;StartingColumnNumber=5&amp;StartingLineNumber=137&amp;Timestamp=573190137.5731829"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=3752&amp;EndingColumnNumber=11&amp;EndingLineNumber=138&amp;StartingColumnNumber=5&amp;StartingLineNumber=138&amp;Timestamp=573190137.573271"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3817&amp;EndingColumnNumber=14&amp;EndingLineNumber=139&amp;StartingColumnNumber=5&amp;StartingLineNumber=139&amp;Timestamp=573190137.573357"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jinhaelee/Development/TIL/Swift/Strings%20and%20Characters.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=3854&amp;EndingColumnNumber=14&amp;EndingLineNumber=140&amp;StartingColumnNumber=5&amp;StartingLineNumber=140&amp;Timestamp=573190137.573445"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
