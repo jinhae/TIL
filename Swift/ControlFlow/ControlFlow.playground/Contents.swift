@@ -288,3 +288,13 @@ for tickMark in stride(from: 3, to: hours, by: hourInterval){
     print(tickMark)
 }
 
+<<<<<<< HEAD
+=======
+
+//TestCommit
+//TestCommit2
+//TestCommit3
+//TestCommit4
+//TestCommit5
+//Tascknaslcnalskc
+>>>>>>> 989b6ee21fdf58c6379c490a84588a1464494c63
