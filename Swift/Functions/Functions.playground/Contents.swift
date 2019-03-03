@@ -217,9 +217,5 @@ while currentValue != 0{
 print("zero!!")
 
 
-//Finish
-//Commit Test
-//Why....
-// Changed
 
 
